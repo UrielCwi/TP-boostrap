@@ -1,0 +1,40 @@
+
+.box-jugar {
+  background: grey;
+  border-radius: 29px;
+  width: 449px;
+  height: 79px;
+  position: absolute;
+  left: 735px;
+  top: 70%;
+}
+.texto-box-jugar {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "Inter", sans-serif;
+  position: absolute;
+  left: 917px;
+  top: 73%;
+  width: 100px;
+  height: 40px;
+}
+.Preguntados {
+  width: 929px;
+  height: 223px;
+  position: absolute;
+  left: 495px;
+  top: 15%;
+}
+.Preguntados-ort {
+  width: 579px;
+  height: 326px;
+  position: absolute;
+  left: 690px;
+  top: 31%;
+}
+body {
+  background-image: url(Fondoindex.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

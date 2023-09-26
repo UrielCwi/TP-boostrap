@@ -1,0 +1,59 @@
+
+.textopregunta{
+    margin-top: 2%;
+    clear: both;
+    text-align: center;
+    color: rgb(112, 205, 233);
+    font-family: sans-serif;
+    word-wrap: break-word;
+    font-weight: 400;
+}
+.numeroPregunta{
+    font-size: 40px;
+}
+.contenidoPregunta{
+    font-size: 28px;
+}
+.Preguntados-ort{
+    clear: both;
+    width: 579px;
+    height: 326px;
+    position: absolute;
+    left: 680px;
+    top: 235px;
+}
+.boxpregunta{
+    background: rgb(238, 18, 18);
+    border-radius: 29px;
+    width: 449px;
+    height: 79px;
+    position: absolute;
+    left: 735px;
+}
+.boxpreguntaVERDADERO{
+    background: rgb(43, 228, 68);
+    border-radius: 29px;
+    width: 449px;
+    height: 79px;
+    position: absolute;
+    left: 735px;
+}
+.textoboxpregunta{
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+    font-family: sans-serif;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    width: 100px;
+    height: 40px;
+}
+
+body {
+    background-image: url(fondopregunta.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }

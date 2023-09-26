@@ -1,0 +1,17 @@
+.Padding{
+    display: block;
+    font-size: 60px;
+    margin-top: 5%;
+    text-align: center;
+    clear: both;
+}
+.form-control{
+    margin-left: 105%;
+}
+.textosubmit{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: rgb(147, 182, 147);
+}
